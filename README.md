@@ -19,7 +19,6 @@
   - Linux
   - Docker
   - Cloud
-- Intend to Study:
 
 ## Employment History
 - Massima Alimentações - Administrative Assistant [June 2019 - March 2022]
