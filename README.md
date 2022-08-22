@@ -18,7 +18,9 @@
   - Common Design Patterns
   - Linux
   - Docker
-  - Cloud
+
+## Intend to Study
+  - Cloud: Azure, AWS
 
 ## Employment History
 - Massima Alimentações - Administrative Assistant [June 2019 - March 2022]
